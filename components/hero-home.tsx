@@ -70,8 +70,7 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              The website builder you're <br className="max-lg:hidden" />
-              looking for
+             Purple LØtus
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
@@ -79,8 +78,7 @@ export default function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay={300}
               >
-                Simple is a modern website builder powered by AI that changes
-                how companies create user interfaces together.
+                "Because Breaches Aren’t an Option."
               </p>
               <div className="relative before:absolute before:inset-0 before:border-y before:[border-image:linear-gradient(to_right,transparent,--theme(--color-slate-300/.8),transparent)1]">
                 <div
@@ -138,7 +136,7 @@ export default function HeroHome() {
                 <br />
                 <br />
                 <span className="animate-[code-5_10s_infinite] text-gray-200">
-                  npm publish
+                  sudo Purple Lotus
                 </span>
                 <br />
                 <span className="animate-[code-6_10s_infinite]">
